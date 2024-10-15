@@ -16,6 +16,8 @@
  Database Modeling: MySQL Workbench
 
 
+
+ 
  2. Data Integration Design
  This second part is focused on Data Integration. It consists on designing an one-time historic data load using an ETL (Extraction, Transformation, Loading) tool. That means create an ETL process for each 
  dimension and fact table.
@@ -30,6 +32,9 @@
 
  Database: MySQL ETL Tool: Pentaho Data Integration (ktr format)
 
+
+ 
+ 
  3. Incident Management System Dashboard
  Who will use the dashboard?
 
