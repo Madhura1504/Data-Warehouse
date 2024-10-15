@@ -1,4 +1,4 @@
-1. Data Warehouse Modeling
+1.Data Warehouse Modeling
  The goal here is to present a design of a data warehouse/data mart for an IT Operations Log System. The main executed task were:
 
  A. Dataset analysis:
